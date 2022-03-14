@@ -42,3 +42,5 @@
     - Spinnaker (CD) (free)
 
 ## Step 5: Monitoring
+- Prometheous
+- Grafana
