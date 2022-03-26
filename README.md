@@ -4,7 +4,7 @@
  <img alt="DevOps Logo" src="image/DevOps.png">
 </p>
 
-## Step 1: (Basic requirements)
+## Step 1: Basic requirements
 - Linux(LPIC-1)
 - Docker
 - Bash-Script
@@ -13,10 +13,13 @@
     - [Git Learning with Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian Language) 
     - [Git Learning with Mosh](https://codewithmosh.com/p/the-ultimate-git-course) (English Language) 
 ## Step 2: IaC (Infrastructure as Code)
-- Terraform 
-## Step 3:
+- Hashicorp Terraform 
+    - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
 
-## Published articles:
+## Step 3: Configuration Managment
+- Ansible 
 
-## Published articles:
+## Step 4:
+
+## Step 5:
 
