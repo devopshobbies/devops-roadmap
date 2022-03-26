@@ -20,7 +20,7 @@
 - Ansible
     - [Ansible Tutorial](https://github.com/ahmadalibagheri/ansible-tutorial) (Sample Traning Code)
 
-## Step 3: CICD (Continuous Integration and Continuous Delivery)
+## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
 - Jenkins (Suitable for CI and CD in ALl infrastructure)
     - [Jenkins Tutorial](https://github.com/ahmadalibagheri/jenkins-tutorial) (Sample Traning Code)
 - GitLab (Suitable for CI and CD in ALl infrastructure)
