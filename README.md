@@ -6,9 +6,11 @@
 
 ## Step 1:
 - Linux(LPIC-1)
-- Docker()
-- Linux(LPIC-1)
-- Linux(LPIC-1)
+- Docker
+- Bash-Script
+    - [ Bash Script Tutorial ] (https://github.com/ahmadalibagheri/bash-script-tutorial)
+- Git
+    - 
 ## Step 2:
 
 ## Step 3:
