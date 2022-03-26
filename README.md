@@ -12,7 +12,7 @@
 - Git
     - [Git Learning with Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian Language) 
     - [Git Learning with Mosh](https://codewithmosh.com/p/the-ultimate-git-course) (English Language) 
-## Step 2: IaC(Infrastructure as Code)
+## Step 2: IaC (Infrastructure as Code)
 - Terraform 
 ## Step 3:
 
