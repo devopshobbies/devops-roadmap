@@ -19,3 +19,31 @@
 ## Published articles:
 
 ## Published articles:
+
+
+# pictures_controller.rb
+def upvote
+  @picture = Picture.find(params[:id])
+  @picture.liked_by current_user
+  redirect_to @picture
+end
+
+def downvote
+  @picture = Picture.find(params[:id])
+  @picture.downvote_from current_user
+  redirect_to @picture
+end
+
+# config/routes.rb
+
+resources :pictures do
+  member do
+    put "like", to: "pictures#upvote"
+    put "dislike", to: "pictures#downvote"
+  end
+end
+
+# some view
+
+<%= link_to "Upvote", like_picture_path(@picture), method: :put %>
+<%= link_to "Downvote", dislike_picture_path(@picture), method: :put %>
