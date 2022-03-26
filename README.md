@@ -8,7 +8,7 @@
 - Linux(LPIC-1)
 - Docker
 - Bash-Script
-    - [ Bash Script Tutorial ] (https://github.com/ahmadalibagheri/bash-script-tutorial)
+    - [Bash Script Tutorial](https://github.com/ahmadalibagheri/bash-script-tutorial)
 - Git
     - 
 ## Step 2:
