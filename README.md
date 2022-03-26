@@ -21,8 +21,13 @@
     - [Ansible Tutorial](https://github.com/ahmadalibagheri/ansible-tutorial) (Sample Traning Code)
 
 ## Step 3: CICD (Continuous Integration and Continuous Delivery)
-- Jenkins
+- Jenkins (Suitable for CI and CD in ALl infrastructure)
     - [Jenkins Tutorial](https://github.com/ahmadalibagheri/jenkins-tutorial) (Sample Traning Code)
-    
+- GitLab (Suitable for CI and CD in ALl infrastructure)
+- Jenkins-X (GitOps)
+- ArgoCD (GitOps) (Suitable for only CD)
 ## Step 4:
-
+- Kubernetes
+    - 
+- Helm
+    - 
