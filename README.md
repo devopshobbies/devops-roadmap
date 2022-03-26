@@ -5,7 +5,7 @@
 </p>
 
 ## Step 0: Basic requirements
-- Linux(LPIC-1)
+- Linux (LPIC-1)
 - Docker
 - Bash-Script
     - [Bash Script Tutorial](https://github.com/ahmadalibagheri/bash-script-tutorial) (Sample Traning Code)
