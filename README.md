@@ -4,11 +4,11 @@
  <img alt="DevOps Logo" src="image/DevOps.png">
 </p>
 
-## Published articles:
+## Step 1:
 
-## Published articles:
+## Step 2:
 
-## Published articles:
+## Step 3:
 
 ## Published articles:
 
