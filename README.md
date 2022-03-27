@@ -6,7 +6,10 @@
 
 ## Step 0: Basic requirements
 - Linux (LPIC-1)
+    - [LPIC-1: Linux Administrator (101-500 and 102-500)](https://app.pluralsight.com/paths/certificate/lpic-one) (you need to have pluralsight subscribtion to see this courses. this path is around 30 hours and it's so amazing) (English Language)
+
 - Docker
+    - [Docker for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/) (this course is free and it's a good start for learning docker )
 - Bash-Script
     - [Bash Script Tutorial](https://github.com/ahmadalibagheri/bash-script-tutorial) (Sample Traning Code)
 - Git
@@ -34,6 +37,8 @@
 
 ## Step 4: Containerization
 - Kubernetes
+    - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do) (it's a great start to learn what is kubernetes)
+    - [Certified Kubernetes Administrator (CKA)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (Kubernetes Administration course by Mumshad, also has a free lab on kodekloud for anyone who bought the course from udemy)
     - [Kubernetes Complete Reference](https://github.com/ahmadalibagheri/kubernetes-complete-reference) (Sample Traning Code)
 - Helm (Kubernetes Package manager)
 - GitOps
