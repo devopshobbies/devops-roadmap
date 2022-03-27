@@ -34,7 +34,11 @@
     - Jenkins-X (CI/CD) (Free)
     - ArgoCD (CD) (free)
     - Spinnaker (CD) (free) -! Warning !-
-    - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?salam=+) `#f03c15`
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
 ## Step 4:
 - Kubernetes
     - 
