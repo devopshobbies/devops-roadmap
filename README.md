@@ -24,7 +24,7 @@
 - Chef (Normal)
 
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
-- Jenkins (Suitable for CI and CD in ALl infrastructure)(Free)```diff (Very Important) ```
+- Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) ```diff - (Very Important) ```
     - [Jenkins Tutorial](https://github.com/ahmadalibagheri/jenkins-tutorial) (Sample Traning Code)
 - CircleCI (Paid)(Important)
 - Teamcity (Paid)
@@ -34,10 +34,10 @@
     - Jenkins-X (CI/CD) (Free)
     - ArgoCD (CD) (free)
     - Spinnaker (CD) (free) -! Warning !-
-```diff
+<!-- ```diff
 - This is a red colored line
 + This is a green colored line
-@@ This is a purple colored line @@
+@@ This is a purple colored line @@ -->
 
 ## Step 4:
 - Kubernetes
