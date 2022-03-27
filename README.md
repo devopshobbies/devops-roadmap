@@ -13,19 +13,27 @@
     - [Git Learning with Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian Language) 
     - [Git Learning with Mosh](https://codewithmosh.com/p/the-ultimate-git-course) (English Language) 
 ## Step 1: IaC (Infrastructure as Code)
-- Hashicorp Terraform 
+- Hashicorp Terraform (Very Important)
     - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
-
+- Pulumi (Normal) 
 ## Step 2: Configuration Managment
-- Ansible
+- Ansible (Very Important)
     - [Ansible Tutorial](https://github.com/ahmadalibagheri/ansible-tutorial) (Sample Traning Code)
+- Puppet (Important)
+- SaltStack (Normal)
+- Chef (Normal)
 
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
-- Jenkins (Suitable for CI and CD in ALl infrastructure)
+- Jenkins (Suitable for CI and CD in ALl infrastructure)(Free)(Very Important)
     - [Jenkins Tutorial](https://github.com/ahmadalibagheri/jenkins-tutorial) (Sample Traning Code)
-- GitLab (Suitable for CI and CD in ALl infrastructure)
-- Jenkins-X (GitOps)
-- ArgoCD (GitOps) (Suitable for only CD)
+- CircleCI (Paid)(Important)
+- Teamcity (Paid)
+- Bamboo (Paid)
+- GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)
+- GitOPS
+    - Jenkins-X (CI/CD) (Free)
+    - ArgoCD (CD) (free)
+    - Spinnaker (CD) (free)
 ## Step 4:
 - Kubernetes
     - 
