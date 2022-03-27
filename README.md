@@ -32,7 +32,7 @@
 - GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)
 
 
-## Step 4:
+## Step 4: Containerization
 - Kubernetes
     - [Kubernetes Complete Reference](https://github.com/ahmadalibagheri/kubernetes-complete-reference) (Sample Traning Code)
 - Helm (Kubernetes Package manager)
@@ -41,3 +41,4 @@
     - ArgoCD (CD) (free)
     - Spinnaker (CD) (free)
 
+## Step 5: Monitoring
