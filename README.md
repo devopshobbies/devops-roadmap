@@ -30,7 +30,7 @@
 - Teamcity (Paid)
 - Bamboo (Paid)
 - GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)
-- GitOPS
+- GitOps
     - Jenkins-X (CI/CD) (Free)
     - ArgoCD (CD) (free)
     - Spinnaker (CD) (free)
