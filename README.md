@@ -34,6 +34,7 @@
     - Jenkins-X (CI/CD) (Free)
     - ArgoCD (CD) (free)
     - Spinnaker (CD) (free) -! Warning !-
+    - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 ## Step 4:
 - Kubernetes
     - 
