@@ -33,7 +33,7 @@
 - GitOps
     - Jenkins-X (CI/CD) (Free)
     - ArgoCD (CD) (free)
-    - Spinnaker (CD) (free) <font color="green"> Some green text </font>
+    - Spinnaker (CD) (free) <fontcolor="green">Some green text</font>
 ## Step 4:
 - Kubernetes
     - 
