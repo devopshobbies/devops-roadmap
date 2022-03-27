@@ -33,7 +33,7 @@
 - GitOps
     - Jenkins-X (CI/CD) (Free)
     - ArgoCD (CD) (free)
-    - Spinnaker (CD) (free) + text in green
+    - Spinnaker (CD) (free) -! Warning !-
 ## Step 4:
 - Kubernetes
     - 
