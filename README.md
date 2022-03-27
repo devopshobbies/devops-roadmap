@@ -30,13 +30,14 @@
 - Teamcity (Paid)
 - Bamboo (Paid)
 - GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)
+
+
+## Step 4:
+- Kubernetes
+    - [Kubernetes Complete Reference](https://github.com/ahmadalibagheri/kubernetes-complete-reference) (Sample Traning Code)
+- Helm (Kubernetes Package manager)
 - GitOps
     - Jenkins-X (CI/CD) (Free)
     - ArgoCD (CD) (free)
     - Spinnaker (CD) (free)
 
-## Step 4:
-- Kubernetes
-    - 
-- Helm
-    - 
