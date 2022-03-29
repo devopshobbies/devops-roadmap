@@ -47,5 +47,6 @@
     - Spinnaker (CD) (free)
 
 ## Step 5: Monitoring
-- Prometheous
-- Grafana
+- Prometheous + Grafana
+- InfluxDB + Grafana
+- ELS
