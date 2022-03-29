@@ -46,7 +46,7 @@
     - ArgoCD (CD) (free)
     - Spinnaker (CD) (free)
 
-## Step 5: Monitoring
+## Step 5: Monitoring and Logging
 - Prometheous + Grafana
 - InfluxDB + Grafana
-- ELS
+- ELk Stack 
