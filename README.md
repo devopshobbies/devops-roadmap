@@ -26,7 +26,7 @@
 - SaltStack (Normal)
 - Chef (Normal)
 
-### After Learning Up steps you can do bottom repos
+## Step 2.5: End-to-End Automation
 
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
 - Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)
