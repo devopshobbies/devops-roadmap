@@ -27,6 +27,7 @@
 - Chef (Normal)
 
 ## Step 2.5: End-to-End Automation
+on this step you need to learning End-to-End automation with ansible and terraform on infrastruture. Please follow bottom repos.
 
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
 - Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)
