@@ -21,15 +21,15 @@
 - Pulumi (Normal) 
 ## Step 2: Configuration Managment
 - Ansible (Strongly Recommended)
-    - [Ansible Tutorial](https://github.com/ahmadalibagheri/ansible-tutorial) (Sample Traning Code)
+    - [Ansible Tutorial](https://github.com/ahmadalibagheri/Ansible-tutorial) (Sample Traning Code)
 - Puppet (Important)
 - SaltStack (Normal)
 - Chef (Normal)
 
 ## Step 2.5: End-to-End Automation
-on this step you need to learning End-to-End automation with ansible and terraform on infrastruture. Please follow bottom repos.
-- End-to-End Automation on VMware vsphere with ansible and terraform
-    - [Terraform vsphere ansible Tutorial](https://github.com/ahmadalibagheri/terraform-vsphere-ansible) 
+on this step you need to learning End-to-End automation with Ansible and terraform on infrastruture. Please follow bottom repos.
+- End-to-End Automation on VMware vsphere with Ansible and terraform
+    - [Terraform vsphere Ansible Tutorial](https://github.com/ahmadalibagheri/terraform-vsphere-ansible) 
 
 
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
