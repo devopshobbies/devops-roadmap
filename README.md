@@ -27,8 +27,8 @@
 - Chef (Normal)
 
 ## Step 2.5: End-to-End Automation
-on this step you need to learning End-to-End automation with Ansible and terraform on infrastruture. Please follow bottom repos.
-- End-to-End Automation on VMware vsphere with Ansible and terraform
+on this step you need to learning End-to-End automation with Ansible and Terraform on infrastruture. Please follow bottom repos.
+- End-to-End Automation on VMware vsphere with Ansible and Terraform
     - [Terraform vsphere Ansible Tutorial](https://github.com/ahmadalibagheri/terraform-vsphere-ansible) 
 
 
