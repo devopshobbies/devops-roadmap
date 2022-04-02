@@ -55,9 +55,9 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 
 ### Step 4.5: GitOps Implementation
 - GitOps
-    - Jenkins-X (CI/CD) (Free)
-    - ArgoCD (CD) (free)
-    - Spinnaker (CD) (free)
+    - [Jenkins-X](https://jenkins-x.io/) (CI/CD) (Free)
+    - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) (CD) (free)
+    - [Spinnaker](https://spinnaker.io/) (CD) (free)
 
 ## Step 5: Monitoring and Logging
 - Prometheous + Grafana
