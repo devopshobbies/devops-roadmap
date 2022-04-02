@@ -6,14 +6,18 @@
 
 ## Step 0: Basic requirements
 - Linux (LPIC-1)
-    - [LPIC-1: Linux Administrator (101-500 and 102-500)](https://app.pluralsight.com/paths/certificate/lpic-one) (you need to have pluralsight subscribtion to see this courses. this path is around 30 hours and it's so amazing) (English Language)
+    - [LPIC-1: Linux Administrator (101-500 and 102-500)](https://app.pluralsight.com/paths/certificate/lpic-one) (You need to have pluralsight subscribtion to see this courses. This path is around 30 hours and it's so amazing) (English Language)
+    - [LPIC-1 Learning with Jadi](https://www.aparat.com/v/vw7Gl?playlist=207575) (Persian Language)
 
 - Docker
     - [Docker for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/) (this course is free and it's a good start for learning docker )
+
 - Bash-Script
     - [Bash Script Tutorial](https://github.com/ahmadalibagheri/bash-script-tutorial) (Sample Traning Code)
+
 - Git
-    - [Git Learning with Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian Language) 
+    - [Git Learning with Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian Language)
+    - [Git Learning with Roocket](https://roocket.ir/series/learn-git-and-github) (Persian Language)  
     - [Git Learning with Mosh](https://codewithmosh.com/p/the-ultimate-git-course) (English Language) 
 ## Step 1: IaC (Infrastructure as Code)
 - Hashicorp Terraform (Strongly Recommended)
@@ -49,7 +53,7 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Kubernetes Complete Reference](https://github.com/ahmadalibagheri/kubernetes-complete-reference) (Sample Traning Code)
 - Helm (Kubernetes Package manager)
 
-### Step 4.5: End-to-End Automation
+### Step 4.5: GitOps Implementation
 - GitOps
     - Jenkins-X (CI/CD) (Free)
     - ArgoCD (CD) (free)
