@@ -19,7 +19,7 @@
     - [Git Learning with Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian Language)
     - [Git Learning with Roocket](https://roocket.ir/series/learn-git-and-github) (Persian Language)  
     - [Git Learning with Mosh](https://codewithmosh.com/p/the-ultimate-git-course) (English Language) 
-    
+
 ## Step 1: IaC (Infrastructure as Code)
 - Hashicorp Terraform (Strongly Recommended)
     - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
@@ -46,6 +46,7 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 - Teamcity (Paid)
 - Bamboo (Paid)
 - GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)
+- Azure DevOps (Suitable for CI and CD in Windows infrastructure)(Paid)
 
 ## Step 4: Containerization
 - Kubernetes
