@@ -26,7 +26,7 @@
 - SaltStack (Normal)
 - Chef (Normal)
 
-## Step 2.5: End-to-End Automation
+# Step 2.5: End-to-End Automation
 on this step you need to learning End-to-End automation with Ansible and Terraform on infrastruture. Please follow bottom repos.
 - End-to-End Automation on VMware vsphere with Ansible and Terraform
     - [Terraform vsphere Ansible Tutorial](https://github.com/ahmadalibagheri/terraform-vsphere-ansible) 
@@ -48,6 +48,8 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Certified Kubernetes Administrator (CKA)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (Kubernetes Administration course by Mumshad, also has a free lab on kodekloud for anyone who bought the course from udemy)
     - [Kubernetes Complete Reference](https://github.com/ahmadalibagheri/kubernetes-complete-reference) (Sample Traning Code)
 - Helm (Kubernetes Package manager)
+
+# Step 4.5: End-to-End Automation
 - GitOps
     - Jenkins-X (CI/CD) (Free)
     - ArgoCD (CD) (free)
