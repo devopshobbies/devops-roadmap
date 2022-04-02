@@ -19,10 +19,12 @@
     - [Git Learning with Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian Language)
     - [Git Learning with Roocket](https://roocket.ir/series/learn-git-and-github) (Persian Language)  
     - [Git Learning with Mosh](https://codewithmosh.com/p/the-ultimate-git-course) (English Language) 
+    
 ## Step 1: IaC (Infrastructure as Code)
 - Hashicorp Terraform (Strongly Recommended)
     - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
-- Pulumi (Normal) 
+- Pulumi (Normal)
+
 ## Step 2: Configuration Managment
 - Ansible (Strongly Recommended)
     - [Ansible Tutorial](https://github.com/ahmadalibagheri/Ansible-tutorial) (Sample Traning Code)
@@ -45,13 +47,12 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 - Bamboo (Paid)
 - GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)
 
-
 ## Step 4: Containerization
 - Kubernetes
     - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do) (It's a great start to learn what is kubernetes)(Free)
     - [Certified Kubernetes Administrator (CKA)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (Kubernetes Administration course by Mumshad, also has a free lab on kodekloud for anyone who bought the course from udemy)(Paid)
     - [Kubernetes Complete Reference](https://github.com/ahmadalibagheri/kubernetes-complete-reference) (Sample Traning Code)
-    
+
 - Helm (Kubernetes Package manager)
 
 ### Step 4.5: GitOps Implementation
