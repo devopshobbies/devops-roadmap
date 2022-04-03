@@ -63,6 +63,7 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Spinnaker](https://spinnaker.io/) (CD) (free)
 
 ## Step 5: Monitoring and Logging
-- Prometheous + Grafana
-- InfluxDB + Grafana
-- ELk Stack 
+- Prometheous + Grafana (Free)
+- Telegraf + InfluxDB + Grafana (Free)
+- Datadog (Paid)
+- ELK Stack (Free)
