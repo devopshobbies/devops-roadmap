@@ -6,7 +6,7 @@
 
 ## Programing Language
 - Python
-
+    - [Python Learning with Jadi](https://www.youtube.com/watch?v=BR7m_2D_-Uw&list=PL-tKrPVkKKE1Y_o_h2w85dzVdoX5t7SI0) (Persian Language) (Free)
 - Golang
 
 ## Step 0: Basic requirements
@@ -21,9 +21,9 @@
     - [Bash Script Tutorial](https://github.com/ahmadalibagheri/bash-script-tutorial) (Sample Traning Code)
 
 - Git
-    - [Git Learning with Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian Language)
-    - [Git Learning with Roocket](https://roocket.ir/series/learn-git-and-github) (Persian Language)  
-    - [Git Learning with Mosh](https://codewithmosh.com/p/the-ultimate-git-course) (English Language) 
+    - [Git Learning with Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian Language) (Free)
+    - [Git Learning with Roocket](https://roocket.ir/series/learn-git-and-github) (Persian Language) (Free) 
+    - [Git Learning with Mosh](https://codewithmosh.com/p/the-ultimate-git-course) (English Language) (Free)
 
 ## Step 1: IaC (Infrastructure as Code)
 - Hashicorp Terraform (Strongly Recommended)
