@@ -4,6 +4,11 @@
  <img alt="DevOps Logo" src="image/DevOps.png">
 </p>
 
+## Programing Language
+- Python
+
+- Golang
+
 ## Step 0: Basic requirements
 - Linux (LPIC-1)
     - [LPIC-1: Linux Administrator (101-500 and 102-500)](https://app.pluralsight.com/paths/certificate/lpic-one) (You need to have pluralsight subscribtion to see this courses. This path is around 30 hours and it's so amazing) (English Language)
