@@ -4,7 +4,12 @@
  <img alt="DevOps-Logo" src="image/DevOps.png">
 </p>
 
+## Introduction
+📌 DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology.
+
 ## Programing Language
+📌 Consider this as your benefit. A good DevOps engineer know at least one popular programming language.
+
 - ### Python
   - Videos:
     - [Python Learning with Jadi on Youtube](https://www.youtube.com/watch?v=BR7m_2D_-Uw&list=PL-tKrPVkKKE1Y_o_h2w85dzVdoX5t7SI0) (Persian Language) (Free)
@@ -20,11 +25,16 @@
     - [LPIC-1: Linux Administrator (101-500 and 102-500)](https://app.pluralsight.com/paths/certificate/lpic-one) (You need to have pluralsight subscribtion to see this courses. This path is around 30 hours and it's so amazing) (English Language)
     - [LPIC-1 Learning with Jadi](https://www.aparat.com/v/vw7Gl?playlist=207575) (Persian Language)
     
-- ### Docker
+- ### Docker (Mandatory)
   - Videos:
     - [Docker for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/) (This course is free and it's a good start for learning docker )
   - Books/Docs/Code:
     - [Docker Deep Dive By  Nigel Poulton](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=tmm_pap_swatch_0) (English book for beginners to have a fundamental knowledge of how to use Docker)
+
+- ### Containerd or LXC (Optional)
+  - Videos:
+    - [Containerd Deep Dive](https://www.youtube.com/watch?v=UUDDCetB7_A)
+
 
 - ### Bash-Script
   - Books/Docs/Code:
@@ -74,13 +84,15 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Mastering GitLab 12: Implement DevOps culture and repository management solutions](https://www.amazon.com/Mastering-GitLab-Implement-repository-management-ebook/dp/B07W6F6SGG/ref=sr_1_3) (Beginner-To-Advanced English book to get familiar with GitLab and its scenarios as the real-world examples explain.)
 - ### Azure DevOps (Suitable for CI and CD in Windows infrastructure)(Paid)
 
-## Step 4: Containerization
+## Step 4: Container Orchestration
 - ### Kubernetes
   - Videos:
     - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do) (It's a great start to learn what is kubernetes)(Free)
     - [Certified Kubernetes Administrator (CKA)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (Kubernetes Administration course by Mumshad, also has a free lab on kodekloud for anyone who bought the course from udemy)(Paid)
   - Books/Docs/Code:
     - [Kubernetes Complete Reference](https://github.com/ahmadalibagheri/kubernetes-complete-reference) (Sample Traning Code)
+  - Real-World sample code
+    - [Kubernetes in real world](https://github.com/Mozart4242/kubernetes-real-world)
 
 - ### Helm (Kubernetes Package manager)
 
@@ -101,9 +113,22 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
   - Videos:
     - [Complete Guide to Elasticsearch](https://www.udemy.com/course/elasticsearch-complete-guide/) (To learn elasticsearch itself)
     - [Data Visualization with Kibana](https://www.udemy.com/course/data-visualization-with-kibana/) (To learn the visualizations with Kibana)
-    - [Data Processing with Logstash (and Filebeat](https://www.udemy.com/course/processing-events-with-logstash/) (To learn the pipeline design and implementation using Logstash)
+    - [Data Processing with Logstash and Filebeat](https://www.udemy.com/course/processing-events-with-logstash/) (To learn the pipeline design and implementation using Logstash)
 - ### NewRelic (Paid)
   - Books/Docs/Code:
     - [Newrelic University](https://learn.newrelic.com/)
   - Videos:
     - [APM Certification Training](https://www.youtube.com/watch?v=uf1WrQsfhy8)
+- ### EFK Stack (Free)
+
+## Step 6: Public Clouds
+- ### Amazon Web Services (AWS)
+  - Video:
+     - [AWS Certified Cloud Practitioner](https://www.itpro.tv/courses/aws/aws-certified-cloud-practitioner/) (Paid)
+     - [AWS Certified DevOps Engineer - Professional](https://www.itpro.tv/courses/aws/aws-certified-devops-engineer-professional-dopc01/) (Paid)
+
+## Step 7: Getting familiar with Agile software development
+📌 If you made yourself through here, it means that you are now a capable DevOps Engineer. from now on, we need to focus on something furthur than using technologies. in order to become a senior, you need to be aware of all the aspects.
+
+- [Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
+- [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices-ebook/dp/B00IZ0G6YG)
