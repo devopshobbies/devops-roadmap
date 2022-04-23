@@ -102,3 +102,8 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Complete Guide to Elasticsearch](https://www.udemy.com/course/elasticsearch-complete-guide/) (To learn elasticsearch itself)
     - [Data Visualization with Kibana](https://www.udemy.com/course/data-visualization-with-kibana/) (To learn the visualizations with Kibana)
     - [Data Processing with Logstash (and Filebeat](https://www.udemy.com/course/processing-events-with-logstash/) (To learn the pipeline design and implementation using Logstash)
+- ### NewRelic (Paid)
+  - Books/Docs/Code:
+    - [Newrelic University](https://learn.newrelic.com/)
+  - Videos:
+    - [APM Certification Training](https://www.youtube.com/watch?v=uf1WrQsfhy8)
