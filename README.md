@@ -24,6 +24,8 @@
   - Videos:
     - [LPIC-1: Linux Administrator (101-500 and 102-500)](https://app.pluralsight.com/paths/certificate/lpic-one) (You need to have pluralsight subscribtion to see this courses. This path is around 30 hours and it's so amazing) (English Language)
     - [LPIC-1 Learning with Jadi](https://www.aparat.com/v/vw7Gl?playlist=207575) (Persian Language)
+    - [New LPIC-1 Learning with Jadi (Recording)](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=1) (Persian Language)
+    - [Jadi's free LPIC 1 book](https://linux1st.com/) (English Language)
     
 - ### Docker (Mandatory)
   - Videos:
