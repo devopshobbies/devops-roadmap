@@ -30,7 +30,7 @@
     
 - ### Docker (Mandatory)
   - Videos:
-    - [Docker for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/) (This course is free and it's a good start for learning docker )
+    - [Docker for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/) (This course is free and it's a good start for learning docker)
   - Books/Docs/Code:
     - [Docker Deep Dive By  Nigel Poulton](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=tmm_pap_swatch_0) (English book for beginners to have a fundamental knowledge of how to use Docker)
 
@@ -55,7 +55,7 @@
 ## Step 1: IaC (Infrastructure as Code)
 - ### Hashicorp Terraform (Strongly Recommended)
     - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
-    - [Terraform Tutorial by Hamed Farvardin](https://linux.tosinso.com/fa/videos/10492/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%B1%D8%A7%D9%81%D8%B1%D9%85-(Terraform)-%D9%82%D8%B3%D9%85%D8%AA-1-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%AA%D8%B1%D8%A7%D9%81%D9%88%D8%B1%D9%85) (Persian Language)
+    - [Terraform Tutorial by Hamed Farvardin](https://linux.tosinso.com/fa/videos/10492/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%B1%D8%A7%D9%81%D8%B1%D9%85-(Terraform)-%D9%82%D8%B3%D9%85%D8%AA-1-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%AA%D8%B1%D8%A7%D9%81%D9%88%D8%B1%D9%85) (Persian Language) (Paid)
 - ### Pulumi (Normal)
 
 ## Step 2: Configuration Managment
