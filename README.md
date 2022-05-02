@@ -51,6 +51,8 @@
     - [Git Learning with Mosh](https://codewithmosh.com/p/the-ultimate-git-course) (English Language) (Free)
   - Books/Docs/Code:
     - [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC/ref=sr_1_15) (English book for all grades)
+  - Games:
+    - [Oh my git!](https://ohmygit.org/) (English Language)(If you prefer to learn while having fun)
 
 ## Step 1: IaC (Infrastructure as Code)
 - ### Hashicorp Terraform (Strongly Recommended)
