@@ -41,6 +41,8 @@
 
 
 - ### Bash-Script
+  - Videos:
+    - [Bash Script Tutorial With Alireza Amirsamimi](https://amirsamimi.ir/bash_tutorials/) (Persian Language videos) (Free)
   - Books/Docs/Code:
     - [Bash Script Tutorial](https://github.com/ahmadalibagheri/bash-script-tutorial) (Sample Traning Code)
     - [Linux Command Line and Shell Scripting Bible 4th Edition](https://www.amazon.com/Linux-Command-Shell-Scripting-Bible/dp/1119700914/ref=pd_bxgy_img_sccl_2/145-7066057-4592848) (LPIC1-Level English book including shell scripting as well as Linux concepts)
