@@ -94,6 +94,9 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 - ### GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)
   - Books/Docs/Code:
     - [Mastering GitLab 12: Implement DevOps culture and repository management solutions](https://www.amazon.com/Mastering-GitLab-Implement-repository-management-ebook/dp/B07W6F6SGG/ref=sr_1_3) (Beginner-To-Advanced English book to get familiar with GitLab and its scenarios as the real-world examples explain.)
+- ### GitHub (GitHub Actions) (Free)
+  - Videos:
+    - [Automate your workflow from idea to production](https://youtu.be/X3F3El_yvFg) (CI/CD With GitHub Actions) (English Language) (Free)
 - ### Azure DevOps (Suitable for CI and CD in Windows infrastructure)(Paid)
 
 ## Step 4: Container Orchestration
