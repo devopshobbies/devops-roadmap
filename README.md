@@ -80,6 +80,8 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
   - Books/Docs/Code:
     - [Terraform vsphere Ansible Tutorial](https://github.com/ahmadalibagheri/terraform-vsphere-ansible) (Sample Training Code)
 - #### Build all instance images with Hashicorp Packer
+  - Videos:
+    - [Packer Tutorial For Beginners](https://www.youtube.com/watch?v=tbv1lTF1wFU&list=PL8VzFQ8k4U1Jp6eWgHSXHiiRWRvPyCKRj&index=1) (English Language) (Free)
   - Books/Docs/Code:
     - [Packer Tutorial](https://github.com/ahmadalibagheri/packer-tutorial)
 
