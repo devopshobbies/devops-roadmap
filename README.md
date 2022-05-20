@@ -9,16 +9,21 @@
 
 ### Table of Contents
 
-- [Prerequisites](#prerequisites)
-  - [Algorithms and Data Structures](#algorithms-and-data-structures)
-  - [System Design](#system-design)
-  - [Git](#git)
-  - [Operating System](#operating-system)
-  - [Virtual Environment](#virtual-environment)
-  - [Python](#python)
-- [Career Path](#career-path)
-  - [Backend](#backend)
-    - [Django](#django)
+- [Programing Language](#programing-language)
+  - [Python](#Python)
+  - [Golang](#Golang)
+- [Step 0: Basic requirements](#step-0-basic-requirements)
+  - [Linux (LPIC-1)](#backend)
+  - [Docker (Mandatory)](#)
+  - [Docker (Mandatory)](#)
+  - [Docker (Mandatory)](#)
+- [Step 1: IaC (Infrastructure as Code)](#django)
+- [Step 2: Configuration Managment](#django)
+- [Step 3: CI/CD (Continuous Integration and Continuous Delivery)](#django)
+- [Step 4: Container Orchestration](#django)
+- [Step 5: Monitoring and Logging](#django)
+- [Step 6: Public Clouds](#django)
+- [Step 7: Getting familiar with Agile software development](#django)
 
 ## Programing Language
 📌 Consider this as your benefit. A good DevOps engineer know at least one popular programming language.
