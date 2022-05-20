@@ -7,6 +7,19 @@
 ## Introduction
 📌 DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology.
 
+### Table of Contents
+
+- [Prerequisites](#prerequisites)
+  - [Algorithms and Data Structures](#algorithms-and-data-structures)
+  - [System Design](#system-design)
+  - [Git](#git)
+  - [Operating System](#operating-system)
+  - [Virtual Environment](#virtual-environment)
+  - [Python](#python)
+- [Career Path](#career-path)
+  - [Backend](#backend)
+    - [Django](#django)
+
 ## Programing Language
 📌 Consider this as your benefit. A good DevOps engineer know at least one popular programming language.
 
