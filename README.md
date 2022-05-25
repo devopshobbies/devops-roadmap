@@ -26,11 +26,11 @@
   - [Puppet (Important)](#puppet-important)
   - [SaltStack (Normal)](#saltstack-normal)
   - [Chef (Normal)](#chef-normal)
-- [Step 3: CI/CD (Continuous Integration and Continuous Delivery)](#django)
-- [Step 4: Container Orchestration](#django)
-- [Step 5: Monitoring and Logging](#django)
-- [Step 6: Public Clouds](#django)
-- [Step 7: Getting familiar with Agile software development](#django)
+- [Step 3: CI/CD (Continuous Integration and Continuous Delivery)](#step-3-cicd-continuous-integration-and-continuous-delivery)
+- [Step 4: Container Orchestration](#step-4-container-orchestration)
+- [Step 5: Monitoring and Logging](#step-5-monitoring-and-logging)
+- [Step 6: Public Clouds](#step-6-public-clouds)
+- [Step 7: Getting familiar with Agile software development](#step-7-getting-familiar-with-agile-software-development)
 
 ## Programing Language
 📌 Consider this as your benefit. A good DevOps engineer know at least one popular programming language.
