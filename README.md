@@ -51,11 +51,10 @@
   - [ELK Stack (Free)](#elk-stack-free)
   - [NewRelic (Paid)](#newrelic-paid)
 - [Step 6: Public Clouds](#step-6-public-clouds)
-  - [Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)](#end-to-end-automation-on-vmware-vsphere-with-ansible-and-terraform)
-  - [CircleCI (Paid)(Important)](#build-all-instance-images-with-hashicorp-packer)
+  - [Amazon Web Services (AWS)](#amazon-web-services-aws)
+  - [Microsoft Cloud (Azure)](#build-all-instance-images-with-hashicorp-packer)
+  - [Google Cloud (GCP)](#build-all-instance-images-with-hashicorp-packer)
 - [Step 7: Getting familiar with Agile software development](#step-7-getting-familiar-with-agile-software-development)
-  - [Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)](#end-to-end-automation-on-vmware-vsphere-with-ansible-and-terraform)
-  - [CircleCI (Paid)(Important)](#build-all-instance-images-with-hashicorp-packer)
 
 
 ## Programing Language
