@@ -69,7 +69,10 @@
     - [Learn Python 3 the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888/ref=sr_1_1) (Includes projects to apply the knowledge)
     - [Effective Python: 90 Specific Ways to Write Better Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/ref=sr_1_1) (Explains the Python best practices by using sample codes in different situations)
 - ### Golang
-
+  - Videos:
+    - [Golang Tutorial for Beginners](https://m.youtube.com/watch?v=YS4e4q9oBaU) (English Language) (Free)
+  - Books/Docs/Code:
+    - [Practical Go Lessons](https://www.practical-go-lessons.com/) (English book for beginners)
 ## Step 0: Basic requirements
 - ### Linux (LPIC-1)
   - Videos:
