@@ -173,6 +173,8 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 - ### Prometheous + Grafana (Free)
   - Books/Docs/Code:
     - [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142/ref=sr_1_1) (English Book)
+  - Video
+    - [Prometheus Tutorial | Monitoring with Prometheus And Grafana | Prometheus Grafana Tutorial | Edureka](https://www.youtube.com/watch?v=7gW5pSM6dlU)
 - ### Telegraf + InfluxDB + Grafana (Free)
 - ### Datadog (Paid)
 - ### ELK Stack (Free)
@@ -195,6 +197,7 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 
 ## Step 7: Getting familiar with Agile software development
 📌 If you made yourself through here, it means that you are now a capable DevOps Engineer. from now on, we need to focus on something furthur than using technologies. in order to become a senior, you need to be aware of all the aspects.
+
 
 - [Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
 - [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices-ebook/dp/B00IZ0G6YG)
