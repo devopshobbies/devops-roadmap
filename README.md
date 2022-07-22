@@ -109,6 +109,12 @@
     - [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC/ref=sr_1_15) (English book for all grades)
   - Games:
     - [Oh my git!](https://ohmygit.org/) (English Language)(If you prefer to learn while having fun)
+    
+ - ### Operating Systems (Optional)
+   - Books/Docs/Code:
+     - [Operating system concepts, 10th edition, by Silberschatz & Galvin & Gagne] (https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) (Free)
+   - Videos:
+     - [Operating system concepts with Saeed Shahrivari] (https://www.youtube.com/watch?v=ovpIUWrBbKU&list=PL7TO4klQB2X5UEP1A2U6FKCbtZMS0J5xS) (Free)
 
 ## Step 1: IaC (Infrastructure as Code)
 - ### Hashicorp Terraform (Strongly Recommended)
