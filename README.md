@@ -111,7 +111,7 @@
   - Games:
     - [Oh my git!](https://ohmygit.org/) (English Language)(If you prefer to learn while having fun)
     
- - ### Operating Systems (Optional)
+- ### Operating Systems (Optional)
    - Books/Docs/Code:
      - [Operating system concepts, 10th edition, by Silberschatz & Galvin & Gagne](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) (Free)
    - Videos:
