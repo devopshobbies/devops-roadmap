@@ -18,7 +18,7 @@
   - [Containerd or LXC (Optional)](#containerd-or-lxc-optional)
   - [Bash-Script](#bash-script)
   - [Git](#git)
-  - [Operating Systems](#Operating-systems)
+  - [Operating Systems](#Operating-Systems)
 - [Step 1: IaC (Infrastructure as Code)](#step-1-iac-infrastructure-as-code)
   - [Hashicorp Terraform (Strongly Recommended)](#hashicorp-terraform-strongly-recommended)
   - [Pulumi (Normal)](#pulumi-normal)
