@@ -112,9 +112,9 @@
     
  - ### Operating Systems (Optional)
    - Books/Docs/Code:
-     - [Operating system concepts, 10th edition, by Silberschatz & Galvin & Gagne] (https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) (Free)
+     - [Operating system concepts, 10th edition, by Silberschatz & Galvin & Gagne](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) (Free)
    - Videos:
-     - [Operating system concepts with Saeed Shahrivari] (https://www.youtube.com/watch?v=ovpIUWrBbKU&list=PL7TO4klQB2X5UEP1A2U6FKCbtZMS0J5xS) (Free)
+     - [Operating system concepts with Saeed Shahrivari](https://www.youtube.com/watch?v=ovpIUWrBbKU&list=PL7TO4klQB2X5UEP1A2U6FKCbtZMS0J5xS) (Free)
 
 ## Step 1: IaC (Infrastructure as Code)
 - ### Hashicorp Terraform (Strongly Recommended)
