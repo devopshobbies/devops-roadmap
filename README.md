@@ -73,6 +73,7 @@
     - [Golang Tutorial for Beginners](https://m.youtube.com/watch?v=YS4e4q9oBaU) (English Language) (Free)
   - Books/Docs/Code:
     - [Practical Go Lessons](https://www.practical-go-lessons.com/) (English book for beginners)
+    - [Golang Tutorial](https://gobyexample.com/)
 ## Step 0: Basic requirements
 - ### Linux (LPIC-1)
   - Videos:
