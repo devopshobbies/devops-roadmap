@@ -142,7 +142,7 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
 - ### Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)
-    - [Jenkins Tutorial](https://github.com/ahmadalibagheri/jenkins-tutorial) (Sample Traning Code)
+    - [Jenkins Tutorial]() (Sample Traning Code)
 - ### CircleCI (Paid)(Important)
 - ### Teamcity (Paid)
 - ### Bamboo (Paid)
