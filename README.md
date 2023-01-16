@@ -115,6 +115,7 @@
 - ### Hashicorp Terraform (Strongly Recommended)
     - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
     - [Terraform Tutorial by Hamed Farvardin](https://linux.tosinso.com/fa/videos/10492/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%B1%D8%A7%D9%81%D8%B1%D9%85-(Terraform)-%D9%82%D8%B3%D9%85%D8%AA-1-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%AA%D8%B1%D8%A7%D9%81%D9%88%D8%B1%D9%85) (Persian Language) (Paid)
+    - [Getting Started With Terraform on AWS by Sumeet Ninawe](https://spacelift.io/blog/terraform-tutorial) (English Language) (Free)
 - ### Pulumi (Normal)
 
 ## Step 2: Configuration Managment
