@@ -167,6 +167,8 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Kubernetes in real world](https://github.com/Mozart4242/kubernetes-real-world)
 
 - ### Helm (Kubernetes Package manager)
+  - Videos:
+    - [Learn Helm with this full "Mini Course" - Richard Chesterwood](https://www.youtube.com/playlist?list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g) (English Language) (Free)
 
 ### Step 4.5: GitOps Implementation
 - #### GitOps
