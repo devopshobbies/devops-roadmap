@@ -31,11 +31,11 @@
   - [End-to-End Automation on VMware vsphere with Ansible and Terraform](#end-to-end-automation-on-vmware-vsphere-with-ansible-and-terraform)
   - [Build all instance images with Hashicorp Packer](#build-all-instance-images-with-hashicorp-packer)
 - [Step 3: CI/CD (Continuous Integration and Continuous Delivery)](#step-3-cicd-continuous-integration-and-continuous-delivery)
-  - [Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)](#jenkins-suitable-for-ci-and-cd-in-all-infrastructurefree-strongly-recommended)
+  - [Jenkins (Suitable for CI and CD in ALL infrastructure)(Free) (Strongly Recommended)](#jenkins-suitable-for-ci-and-cd-in-all-infrastructurefree-strongly-recommended)
   - [CircleCI (Paid)(Important)](#circleci-paidimportant)
   - [Teamcity (Paid)](#teamcity-paid)
   - [Bamboo (Paid)](#bamboo-paid)
-  - [GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)](#gitlab-suitable-for-ci-and-cd-in-all-infrastructurepaid)
+  - [GitLab (Suitable for CI and CD in ALL infrastructure)(Paid)](#gitlab-suitable-for-ci-and-cd-in-all-infrastructurepaid)
   - [GitHub (GitHub Actions)(Paid)](#github-github-actions-free)
 - [Step 4: Container Orchestration](#step-4-container-orchestration)
   - [Kubernetes](#kubernetes)
@@ -66,6 +66,7 @@
     - [Python Learning with Jadi on Youtube](https://www.youtube.com/watch?v=BR7m_2D_-Uw&list=PL-tKrPVkKKE1Y_o_h2w85dzVdoX5t7SI0) (Persian Language) (Free)
     - [Python Learning with Jadi on Aparat](https://www.aparat.com/v/Fk27n) (Persian Language) (Free)
     - [Learn Python at the elementary and intermediate level](https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)) (Persian Language videos) (Free)
+    - [Python Zero to Hero - Andrei Neagoie](https://www.youtube.com/playlist?list=PL3JcF91tUKYYIbjAAZ2Y8UNp2IhqEAFSW) (English Language) (Free)
   - Books/Docs/Code:
     - [Learn Python 3 the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888/ref=sr_1_1) (Includes projects to apply the knowledge)
     - [Effective Python: 90 Specific Ways to Write Better Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/ref=sr_1_1) (Explains the Python best practices by using sample codes in different situations)
@@ -74,6 +75,7 @@
     - [Golang Tutorial for Beginners](https://m.youtube.com/watch?v=YS4e4q9oBaU) (English Language) (Free)
   - Books/Docs/Code:
     - [Practical Go Lessons](https://www.practical-go-lessons.com/) (English book for beginners)
+    - [Golang Tutorial](https://gobyexample.com/) (English book for beginners)
 ## Step 0: Basic requirements
 - ### Linux (LPIC-1)
   - Videos:
@@ -121,6 +123,7 @@
 - ### Hashicorp Terraform (Strongly Recommended)
     - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
     - [Terraform Tutorial by Hamed Farvardin](https://linux.tosinso.com/fa/videos/10492/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%B1%D8%A7%D9%81%D8%B1%D9%85-(Terraform)-%D9%82%D8%B3%D9%85%D8%AA-1-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%AA%D8%B1%D8%A7%D9%81%D9%88%D8%B1%D9%85) (Persian Language) (Paid)
+    - [Getting Started With Terraform on AWS by Sumeet Ninawe](https://spacelift.io/blog/terraform-tutorial) (English Language) (Free)
 - ### Pulumi (Normal)
 
 ## Step 2: Configuration Managment
@@ -148,7 +151,7 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
 - ### Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)
-    - [Jenkins Tutorial](https://github.com/ahmadalibagheri/jenkins-tutorial) (Sample Traning Code)
+    - [Jenkins Tutorial]() (Sample Traning Code)
 - ### CircleCI (Paid)(Important)
 - ### Teamcity (Paid)
 - ### Bamboo (Paid)
@@ -171,6 +174,8 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Kubernetes in real world](https://github.com/Mozart4242/kubernetes-real-world)
 
 - ### Helm (Kubernetes Package manager)
+  - Videos:
+    - [Learn Helm with this full "Mini Course" - Richard Chesterwood](https://www.youtube.com/playlist?list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g) (English Language) (Free)
 
 ### Step 4.5: GitOps Implementation
 - #### GitOps
