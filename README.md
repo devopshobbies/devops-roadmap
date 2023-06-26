@@ -123,6 +123,7 @@
 - ### Ansible (Strongly Recommended)
   - Videos:
     - [Getting Start With Ansible](https://www.youtube.com/watch?v=3RiVKs8GHYQ&list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) (Beginner Video)
+    - [Ansible with Morteza Bashsiz](https://www.youtube.com/playlist?list=PLRMCwJJwWR1AKYcUkdcorTFR-bhXUN6oO) (Persian Language) (Free) (Beginner Video)
   - Books/Docs/Code:
     - [Ansible Tutorial](https://github.com/ahmadalibagheri/Ansible-tutorial) (Sample Traning Code)
     - [Ansible: From Beginner to Pro](https://www.amazon.com/Ansible-Beginner-Pro-Michael-Heap/dp/1484216601/ref=sr_1_19) (Beginner Book)
