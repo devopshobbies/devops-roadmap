@@ -71,6 +71,7 @@
     - [Effective Python: 90 Specific Ways to Write Better Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/ref=sr_1_1) (Explains the Python best practices by using sample codes in different situations)
 - ### Golang
   - Videos:
+    - [Go Master Class - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=3GIEmRfMA0I&list=PLYrn63eEqAzYOwqstIZWW4Q8dQ3Ncchbw&pp=iAQB) (Persian Language) (Free)
     - [Golang Tutorial for Beginners](https://m.youtube.com/watch?v=YS4e4q9oBaU) (English Language) (Free)
   - Books/Docs/Code:
     - [Practical Go Lessons](https://www.practical-go-lessons.com/) (English book for beginners)
@@ -97,6 +98,7 @@
 
 - ### Bash-Script
   - Videos:
+    - [Bash Script Learning - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=b92kh67V4Mw&list=PLYrn63eEqAzYb9UoaaLJD1fdtoPx5jpaG) (Persian Language videos) (Free)
     - [Bash Script Tutorial With Alireza Amirsamimi](https://amirsamimi.ir/bash_tutorials/) (Persian Language videos) (Free)
   - Books/Docs/Code:
     - [Bash Script Tutorial](https://github.com/ahmadalibagheri/bash-script-tutorial) (Sample Traning Code)
@@ -114,9 +116,12 @@
 
 ## Step 1: IaC (Infrastructure as Code)
 - ### Hashicorp Terraform (Strongly Recommended)
-    - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
+  - Videos:
+    - [Terraform From Zero to Hero - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=aFk04rQWvOM&list=PLYrn63eEqAzZssgLu8Um_k1v8Pvh7-l7b) (Persian Language) (Free)
     - [Terraform Tutorial by Hamed Farvardin](https://linux.tosinso.com/fa/videos/10492/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%B1%D8%A7%D9%81%D8%B1%D9%85-(Terraform)-%D9%82%D8%B3%D9%85%D8%AA-1-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%AA%D8%B1%D8%A7%D9%81%D9%88%D8%B1%D9%85) (Persian Language) (Paid)
-    - [Getting Started With Terraform on AWS by Sumeet Ninawe](https://spacelift.io/blog/terraform-tutorial) (English Language) (Free)
+  - Books/Docs/Code:
+    - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
+    - [Getting Started With Terraform on AWS by Sumeet Ninawe](https://spacelift.io/blog/terraform-tutorial) (Terraform Tutorial )
 - ### Pulumi (Normal)
 
 ## Step 2: Configuration Managment
