@@ -34,7 +34,7 @@
   - [Jenkins (Suitable for CI and CD in ALL infrastructure)(Free) (Strongly Recommended)](#jenkins-suitable-for-ci-and-cd-in-all-infrastructurefree-strongly-recommended)
   - [GitLab (Suitable for CI and CD in ALL infrastructure)(Paid)](#gitlab-suitable-for-ci-and-cd-in-all-infrastructurepaid)
   - [GitHub (GitHub Actions)(Paid)](#github-github-actions-free)
-  - [Azure DevOps (Suitable for CI and CD in Windows infrastructure)(Paid)](#azure-devOps-suitable-for-cI-and-cD-in-windows-infrastructure-paid)
+  - [Azure DevOps (Suitable for CI and CD in Windows infrastructure)(Paid)](#azure-devops-suitable-for-ci-and-cd-in-windows-infrastructurepaid)
   - [CircleCI (Paid)(Important)](#circleci-paidimportant)
   - [Teamcity (Paid)](#teamcity-paid)
   - [Bamboo (Paid)](#bamboo-paid)
