@@ -149,11 +149,14 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
 - ### Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)
-    - [Jenkins Tutorial]() (Sample Traning Code)
+  - Videos:
+    - [Jenkins CICD - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=l9XXgAHNM4M&list=PLYrn63eEqAzaErni2aBsPEhKhoxiX7yes) (Persian Language) (Free)
 - ### CircleCI (Paid)(Important)
 - ### Teamcity (Paid)
 - ### Bamboo (Paid)
 - ### GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)
+  - Videos:
+    - [Gitlab CICD - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=M0OWvEE4e3I&list=PLYrn63eEqAzannVocQrddqsBK-C17e-Sm) (Persian Language) (Free)
   - Books/Docs/Code:
     - [Mastering GitLab 12: Implement DevOps culture and repository management solutions](https://www.amazon.com/Mastering-GitLab-Implement-repository-management-ebook/dp/B07W6F6SGG/ref=sr_1_3) (Beginner-To-Advanced English book to get familiar with GitLab and its scenarios as the real-world examples explain.)
 - ### GitHub (GitHub Actions) (Free)
@@ -177,6 +180,8 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 
 ### Step 4.5: GitOps Implementation
 - #### GitOps
+  - Videos:
+    - [Argo From Zero To Hero - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=T-ERIOb_3z0&list=PLYrn63eEqAzYttcyB6On1oH35O5rxgDt4) (English Language) (Free)
   - Books/Docs/Code:
     - [Jenkins-X](https://jenkins-x.io/) (CI/CD) (Free)
     - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) (CD) (free)
@@ -186,8 +191,11 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 - ### Prometheous + Grafana (Free)
   - Books/Docs/Code:
     - [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142/ref=sr_1_1) (English Book)
-  - Video
+  - Videos:
     - [Prometheus Tutorial | Monitoring with Prometheus And Grafana | Prometheus Grafana Tutorial | Edureka](https://www.youtube.com/watch?v=7gW5pSM6dlU)
+- ### Zabbix + Grafana (Free)
+  - Videos:
+    - [Zabbix And Grafana - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=s4CuvB5-NZE&list=PLYrn63eEqAzaEkGmYAn6StHk4rqVEjd_g) (Persian Language) (Free)
 - ### Telegraf + InfluxDB + Grafana (Free)
 - ### Datadog (Paid)
 - ### ELK Stack (Free)
