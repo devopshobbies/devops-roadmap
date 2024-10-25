@@ -15,6 +15,7 @@
 - [Step 0: Basic requirements](#step-0-basic-requirements)
   - [Linux (LPIC-1)](#linux-lpic-1)
   - [Docker (Mandatory)](#docker-mandatory)
+  - [Containers From Scratch (Optional)](#Containers-from-scratch-optional)
   - [Containerd or LXC (Optional)](#containerd-or-lxc-optional)
   - [Bash-Script](#bash-script)
   - [Git](#git)
@@ -46,6 +47,7 @@
   - [Helm (Kubernetes Package manager)](#helm-kubernetes-package-manager)
 - [Step 5: Monitoring and Logging](#step-5-monitoring-and-logging)
   - [Prometheous + Grafana (Free)](#prometheous--grafana-free)
+  - [Zabbix + Grafana (Free)](#zabbix--grafana-free)
   - [Telegraf + InfluxDB + Grafana (Free)](#telegraf--influxdb--grafana-free)
   - [Datadog (Paid)](#datadog-paid)
   - [ELK Stack (Free)](#elk-stack-free)
@@ -90,7 +92,9 @@
     - [Docker for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/) (This course is free and it's a good start for learning docker)
   - Books/Docs/Code:
     - [Docker Deep Dive By  Nigel Poulton](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=tmm_pap_swatch_0) (English book for beginners to have a fundamental knowledge of how to use Docker)
-
+- ### Containers From Scratch (Optional)
+  - Videos:
+    - [Containers From Scratch - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=pC6utshJRW8&list=PLYrn63eEqAzbB6IpUB7BFDcDbuPvvnERl) (Persian Language) (Free)
 - ### Containerd or LXC (Optional)
   - Videos:
     - [Containerd Deep Dive](https://www.youtube.com/watch?v=UUDDCetB7_A)
