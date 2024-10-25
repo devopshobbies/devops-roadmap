@@ -32,11 +32,12 @@
   - [Build all instance images with Hashicorp Packer](#build-all-instance-images-with-hashicorp-packer)
 - [Step 3: CI/CD (Continuous Integration and Continuous Delivery)](#step-3-cicd-continuous-integration-and-continuous-delivery)
   - [Jenkins (Suitable for CI and CD in ALL infrastructure)(Free) (Strongly Recommended)](#jenkins-suitable-for-ci-and-cd-in-all-infrastructurefree-strongly-recommended)
+  - [GitLab (Suitable for CI and CD in ALL infrastructure)(Paid)](#gitlab-suitable-for-ci-and-cd-in-all-infrastructurepaid)
+  - [GitHub (GitHub Actions)(Paid)](#github-github-actions-free)
+  - [Azure DevOps (Suitable for CI and CD in Windows infrastructure)(Paid)](#azure-devOps-suitable-for-cI-and-cD-in-windows-infrastructure-paid)
   - [CircleCI (Paid)(Important)](#circleci-paidimportant)
   - [Teamcity (Paid)](#teamcity-paid)
   - [Bamboo (Paid)](#bamboo-paid)
-  - [GitLab (Suitable for CI and CD in ALL infrastructure)(Paid)](#gitlab-suitable-for-ci-and-cd-in-all-infrastructurepaid)
-  - [GitHub (GitHub Actions)(Paid)](#github-github-actions-free)
 - [Step 4: Container Orchestration](#step-4-container-orchestration)
   - [Kubernetes](#kubernetes)
   - [Helm (Kubernetes Package manager)](#helm-kubernetes-package-manager)
@@ -155,9 +156,6 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 - ### Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)
   - Videos:
     - [Jenkins CICD - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=l9XXgAHNM4M&list=PLYrn63eEqAzaErni2aBsPEhKhoxiX7yes) (Persian Language) (Free)
-- ### CircleCI (Paid)(Important)
-- ### Teamcity (Paid)
-- ### Bamboo (Paid)
 - ### GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)
   - Videos:
     - [Gitlab CICD - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=M0OWvEE4e3I&list=PLYrn63eEqAzannVocQrddqsBK-C17e-Sm) (Persian Language) (Free)
@@ -167,6 +165,11 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
   - Videos:
     - [Automate your workflow from idea to production](https://youtu.be/X3F3El_yvFg) (CI/CD With GitHub Actions) (English Language) (Free)
 - ### Azure DevOps (Suitable for CI and CD in Windows infrastructure)(Paid)
+  - Videos:
+    - [AzureDevOps + CI/CD + .netcore - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=lBjX9PXEvEw&list=PLYrn63eEqAzZGQMqdZDDgdqud0FrvNzNp) (Persian Language) (Free)
+- ### CircleCI (Paid)(Important)
+- ### Teamcity (Paid)
+- ### Bamboo (Paid)
 
 ## Step 4: Container Orchestration
 - ### Kubernetes
