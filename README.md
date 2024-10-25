@@ -48,6 +48,7 @@
   - [Helm (Kubernetes Package manager)](#helm-kubernetes-package-manager)
 - [Step 5: Monitoring and Logging](#step-5-monitoring-and-logging)
   - [Prometheous + Grafana (Free)](#prometheous--grafana-free)
+  - [Grafana LGTM Stack (Loki + Grafana + Tempo + Mimir) (Free)](#grafana-lgtm-stack-loki--grafana--tempo--mimir)
   - [Zabbix + Grafana (Free)](#zabbix--grafana-free)
   - [Telegraf + InfluxDB + Grafana (Free)](#telegraf--influxdb--grafana-free)
   - [Datadog (Paid)](#datadog-paid)
@@ -200,6 +201,9 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142/ref=sr_1_1) (English Book)
   - Videos:
     - [Prometheus Tutorial | Monitoring with Prometheus And Grafana | Prometheus Grafana Tutorial | Edureka](https://www.youtube.com/watch?v=7gW5pSM6dlU)
+- ### Grafana LGTM Stack (Loki + Grafana + Tempo + Mimir)
+  - Videos:
+    - [Grafana LGTM Stack - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=boS5enCeszU&list=PLYrn63eEqAzZL2TaS0pXXw-_DEl3SsAF_) (English Language) (Free)
 - ### Zabbix + Grafana (Free)
   - Videos:
     - [Zabbix And Grafana - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=s4CuvB5-NZE&list=PLYrn63eEqAzaEkGmYAn6StHk4rqVEjd_g) (Persian Language) (Free)
