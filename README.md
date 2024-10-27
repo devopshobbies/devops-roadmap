@@ -12,6 +12,7 @@
 - [Programing Language](#programing-language)
   - [Python](#Python)
   - [Golang](#Golang)
+- [DevOps Overview](#devops-overview) 
 - [Step 0: Basic requirements](#step-0-basic-requirements)
   - [Linux (LPIC-1)](#linux-lpic-1)
   - [Docker (Mandatory)](#docker-mandatory)
@@ -19,6 +20,7 @@
   - [Containerd or LXC (Optional)](#containerd-or-lxc-optional)
   - [Bash-Script](#bash-script)
   - [Git](#git)
+  - [NetOps](#netops)
 - [Step 1: IaC (Infrastructure as Code)](#step-1-iac-infrastructure-as-code)
   - [Hashicorp Terraform (Strongly Recommended)](#hashicorp-terraform-strongly-recommended)
   - [Pulumi (Normal)](#pulumi-normal)
@@ -38,6 +40,9 @@
   - [CircleCI (Paid)(Important)](#circleci-paidimportant)
   - [Teamcity (Paid)](#teamcity-paid)
   - [Bamboo (Paid)](#bamboo-paid)
+- [DevOps Projects](#devops-projects)
+- [Step 3.1](#step-31-object-storage)
+  - [MiniO](#minio)  
 - [Step 4: Container Orchestration](#step-4-container-orchestration)
   - [Kubernetes](#kubernetes)
   - [Helm (Kubernetes Package manager)](#helm-kubernetes-package-manager)
@@ -59,6 +64,7 @@
   - [Microsoft Cloud (Azure)](#build-all-instance-images-with-hashicorp-packer)
   - [Google Cloud (GCP)](#build-all-instance-images-with-hashicorp-packer)
 - [Step 7: Getting familiar with Agile software development](#step-7-getting-familiar-with-agile-software-development)
+- [Contact the maintainer of DevOps Hobbies](#maintainer)
 
 
 ## Programing Language
@@ -80,6 +86,9 @@
   - Books/Docs/Code:
     - [Practical Go Lessons](https://www.practical-go-lessons.com/) (English book for beginners)
     - [Golang Tutorial](https://gobyexample.com/) (English book for beginners)
+## DevOps Overview
+  - Videos:
+    - [DevOps Overview -  Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=M8ztRU94XNg&list=PLYrn63eEqAzbtAEHtmbhxxrwCCNYrRUDv) (Persian Language) (Free)
 ## Step 0: Basic requirements
 - ### Linux (LPIC-1)
   - Videos:
@@ -119,6 +128,9 @@
     - [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC/ref=sr_1_15) (English book for all grades)
   - Games:
     - [Oh my git!](https://ohmygit.org/) (English Language)(If you prefer to learn while having fun)
+- ### NetOps
+  - Videos:
+    - [NetOps - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=zRizf-tRln4&list=PLYrn63eEqAzaydfpPB9tTFVTUTkneP6EN) (Persian Language) (Free)
 
 ## Step 1: IaC (Infrastructure as Code)
 - ### Hashicorp Terraform (Strongly Recommended)
@@ -171,6 +183,15 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 - ### CircleCI (Paid)(Important)
 - ### Teamcity (Paid)
 - ### Bamboo (Paid)
+
+## DevOps Projects
+  - Videos:
+    - [Django + Docker + CI/CD - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=KtYDIJN3wmM&list=PLYrn63eEqAzY5uG5ks_OquWcojzHvhp9Z) (Persian Language) (Free)
+
+## Step 3.1: Object Storage
+- ### MiniO
+  - Videos:
+    - [MiniO Tutorial - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=y4of6U-mdVQ&list=PLYrn63eEqAzaS7mHcJh7GPOFWcLHLxlfE) (Persian Language) (Free)   
 
 ## Step 4: Container Orchestration
 - ### Kubernetes
@@ -233,3 +254,7 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 
 - [Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
 - [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices-ebook/dp/B00IZ0G6YG)
+
+
+## Maintainer
+  - Ahmadali Bagheri - :email: Ahmad@devopshobbies.com
