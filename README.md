@@ -41,7 +41,7 @@
   - [Teamcity (Paid)](#teamcity-paid)
   - [Bamboo (Paid)](#bamboo-paid)
 - [DevOps Projects](#devops-projects)
-- [Step 3.1](#step-31-object-storage)
+- [Step 3.1: Object Storage](#step-31-object-storage)
   - [MiniO](#minio)  
 - [Step 4: Container Orchestration](#step-4-container-orchestration)
   - [Kubernetes](#kubernetes)
@@ -63,6 +63,7 @@
   - [Amazon Web Services (AWS)](#amazon-web-services-aws)
   - [Microsoft Cloud (Azure)](#build-all-instance-images-with-hashicorp-packer)
   - [Google Cloud (GCP)](#build-all-instance-images-with-hashicorp-packer)
+- [DevOps Projects](#devops-projects-1)
 - [Step 7: Getting familiar with Agile software development](#step-7-getting-familiar-with-agile-software-development)
 - [Contact the maintainer of DevOps Hobbies](#maintainer)
 
@@ -247,6 +248,9 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
   - Video:
      - [AWS Certified Cloud Practitioner](https://www.itpro.tv/courses/aws/aws-certified-cloud-practitioner/) (Paid)
      - [AWS Certified DevOps Engineer - Professional](https://www.itpro.tv/courses/aws/aws-certified-devops-engineer-professional-dopc01/) (Paid)
+## DevOps Projects
+  - Videos:
+     - [AWS + Cloudflare + Vercel - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=SqE6spnJ6LE&list=PLYrn63eEqAzYnojn7knFSiQgir2qjVMQ9) (Persian Language) (Free)
 
 ## Step 7: Getting familiar with Agile software development
 📌 If you made yourself through here, it means that you are now a capable DevOps Engineer. from now on, we need to focus on something furthur than using technologies. in order to become a senior, you need to be aware of all the aspects.
