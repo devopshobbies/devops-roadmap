@@ -261,4 +261,7 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 
 
 ## Maintainer
-  - Ahmadali Bagheri - :email: Ahmad@devopshobbies.com
+  - Ahmadali Bagheri
+    - [Email](Ahmad@devopshobbies.com)
+    - [Github](https://github.com/ahmadalibagheri)
+    - [LinkedIn](https://www.linkedin.com/in/ahmadali-bagheri/)
