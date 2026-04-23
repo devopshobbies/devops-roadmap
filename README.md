@@ -13,6 +13,7 @@
   - [Python](#Python)
   - [Golang](#Golang)
 - [DevOps Overview](#devops-overview) 
+- [Hands-on DevOps Games](#hands-on-devops-games)
 - [Step 0: Basic requirements](#step-0-basic-requirements)
   - [Linux (LPIC-1)](#linux-lpic-1)
   - [Docker (Mandatory)](#docker-mandatory)
@@ -92,6 +93,19 @@
     - [LabEx DevOps Learning Path](https://labex.io/learn/devops) - Comprehensive hands-on DevOps labs covering Linux, Docker, Kubernetes, Python, automation, and cloud technologies with 6000+ interactive exercises and real-world projects
   - Videos:
     - [DevOps Overview -  Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=M8ztRU94XNg&list=PLYrn63eEqAzbtAEHtmbhxxrwCCNYrRUDv) (Persian Language) (Free)
+
+## Hands-on DevOps Games
+Practice the roadmap topics with fully local mission-based games:
+
+- [LinuxMissions](https://github.com/devopshobbies/linuxmissions) - Learn Linux by fixing real terminal problems across progressive sandboxed missions.
+- [BashMissions](https://github.com/devopshobbies/bashmissions) - Learn Bash scripting through local coding challenges, tests, hints, and debriefs.
+- [GitMissions](https://github.com/devopshobbies/gitmissions) - Learn Git by diagnosing and fixing broken repositories with real `git` commands.
+- [DockerMissions](https://github.com/devopshobbies/dockermissions) - Learn Docker in a browser-based local training game with live validation.
+- [TerraformMissions](https://github.com/devopshobbies/terraformmissions) - Learn Terraform by repairing broken `.tf` configurations using real Terraform workflows.
+- [K8sMissions](https://github.com/devopshobbies/k8smissions) - Learn Kubernetes troubleshooting through local cluster repair missions.
+- [HelmMissions](https://github.com/devopshobbies/helmmissions) - Learn Helm by fixing broken charts, releases, and upgrade paths.
+- [AWSMissions](https://github.com/devopshobbies/awsmissions) - Learn AWS locally with LocalStack and real AWS CLI repair missions.
+
 ## Step 0: Basic requirements
 - ### Linux (LPIC-1)
   - Videos:
@@ -100,12 +114,16 @@
     - [New LPIC-1 Learning with Jadi (Recording)](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=1) (Persian Language)
     - [New LPIC-1 Learning with Jadi (Recording)](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj) (English Language)
     - [Jadi's free LPIC 1 book](https://linux1st.com/) (English Language)
+  - Games:
+    - [LinuxMissions](https://github.com/devopshobbies/linuxmissions) (Fully local terminal game for practicing Linux troubleshooting)
     
 - ### Docker (Mandatory)
   - Videos:
     - [Docker for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/) (This course is free and it's a good start for learning docker)
   - Books/Docs/Code:
     - [Docker Deep Dive By  Nigel Poulton](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=tmm_pap_swatch_0) (English book for beginners to have a fundamental knowledge of how to use Docker)
+  - Games:
+    - [DockerMissions](https://github.com/devopshobbies/dockermissions) (Fully local browser-based Docker training game)
 - ### Containers From Scratch (Optional)
   - Videos:
     - [Containers From Scratch - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=pC6utshJRW8&list=PLYrn63eEqAzbB6IpUB7BFDcDbuPvvnERl) (Persian Language) (Free)
@@ -121,6 +139,8 @@
   - Books/Docs/Code:
     - [Bash Script Tutorial](https://github.com/ahmadalibagheri/bash-script-tutorial) (Sample Traning Code)
     - [Linux Command Line and Shell Scripting Bible 4th Edition](https://www.amazon.com/Linux-Command-Shell-Scripting-Bible/dp/1119700914/ref=pd_bxgy_img_sccl_2/145-7066057-4592848) (LPIC1-Level English book including shell scripting as well as Linux concepts)
+  - Games:
+    - [BashMissions](https://github.com/devopshobbies/bashmissions) (Fully local terminal game for learning Bash scripting)
     
 - ### Git
   - Videos:
@@ -131,6 +151,7 @@
     - [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC/ref=sr_1_15) (English book for all grades)
   - Games:
     - [Oh my git!](https://ohmygit.org/) (English Language)(If you prefer to learn while having fun)
+    - [GitMissions](https://github.com/devopshobbies/gitmissions) (Fully local Git troubleshooting game)
 - ### NetOps
   - Videos:
     - [NetOps - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=zRizf-tRln4&list=PLYrn63eEqAzaydfpPB9tTFVTUTkneP6EN) (Persian Language) (Free)
@@ -143,6 +164,8 @@
   - Books/Docs/Code:
     - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
     - [Getting Started With Terraform on AWS by Sumeet Ninawe](https://spacelift.io/blog/terraform-tutorial) (Terraform Tutorial )
+  - Games:
+    - [TerraformMissions](https://github.com/devopshobbies/terraformmissions) (Fully local Terraform training game with broken configurations to fix)
 - ### Pulumi (Normal)
 
 ## Step 2: Configuration Managment
@@ -208,10 +231,14 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Kubernetes Complete Reference](https://github.com/ahmadalibagheri/kubernetes-complete-reference) (Sample Traning Code)
   - Real-World sample code
     - [Kubernetes in real world](https://github.com/Mozart4242/kubernetes-real-world)
+  - Games:
+    - [K8sMissions](https://github.com/devopshobbies/k8smissions) (Fully local Kubernetes troubleshooting game)
 
 - ### Helm (Kubernetes Package manager)
   - Videos:
     - [Learn Helm with this full "Mini Course" - Richard Chesterwood](https://www.youtube.com/playlist?list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g) (English Language) (Free)
+  - Games:
+    - [HelmMissions](https://github.com/devopshobbies/helmmissions) (Fully local Helm troubleshooting game)
 
 ### Step 4.5: GitOps Implementation
 - #### GitOps
@@ -253,6 +280,9 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
   - Video:
      - [AWS Certified Cloud Practitioner](https://www.itpro.tv/courses/aws/aws-certified-cloud-practitioner/) (Paid)
      - [AWS Certified DevOps Engineer - Professional](https://www.itpro.tv/courses/aws/aws-certified-devops-engineer-professional-dopc01/) (Paid)
+  - Games:
+     - [AWSMissions](https://github.com/devopshobbies/awsmissions) (Fully local AWS training game powered by LocalStack)
+
 ## DevOps Projects
   - Videos:
      - [AWS + Cloudflare + Vercel - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=SqE6spnJ6LE&list=PLYrn63eEqAzYnojn7knFSiQgir2qjVMQ9) (Persian Language) (Free)
@@ -270,3 +300,10 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Email](Ahmad@devopshobbies.com)
     - [Github](https://github.com/ahmadalibagheri)
     - [LinkedIn](https://www.linkedin.com/in/ahmadali-bagheri/)
+
+## Hands-on Games Contributors
+  - Jalil Abdollahi
+    - [Email](jalil.abdollahi@gmail.com)
+    - [Github](https://github.com/jalilabdollahi)
+    - Design and implementation: [DockerMissions](https://github.com/devopshobbies/dockermissions)[LinuxMissions](https://github.com/devopshobbies/linuxmissions), [BashMissions](https://github.com/devopshobbies/bashmissions), [TerraformMissions](https://github.com/devopshobbies/terraformmissions), [K8sMissions](https://github.com/devopshobbies/k8smissions), [HelmMissions](https://github.com/devopshobbies/helmmissions), and [AWSMissions](https://github.com/devopshobbies/awsmissions)
+    - Design: [GitMissions](https://github.com/devopshobbies/gitmissions)
