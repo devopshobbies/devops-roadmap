@@ -9,7 +9,7 @@
 
 ### Table of Contents
 
-- [Programing Language](#programing-language)
+- [Programming Language](#programming-language)
   - [Python](#Python)
   - [Golang](#Golang)
 - [DevOps Overview](#devops-overview) 
@@ -25,7 +25,7 @@
 - [Step 1: IaC (Infrastructure as Code)](#step-1-iac-infrastructure-as-code)
   - [Hashicorp Terraform (Strongly Recommended)](#hashicorp-terraform-strongly-recommended)
   - [Pulumi (Normal)](#pulumi-normal)
-- [Step 2: Configuration Managment](#step-2-configuration-managment)
+- [Step 2: Configuration Management](#step-2-configuration-management)
   - [Ansible (Strongly Recommended)](#ansible-strongly-recommended)
   - [Puppet (Important)](#puppet-important)
   - [SaltStack (Normal)](#saltstack-normal)
@@ -53,7 +53,7 @@
   - [Spinnaker (CD) (free)](#gitops)
   - [Helm (Kubernetes Package manager)](#helm-kubernetes-package-manager)
 - [Step 5: Monitoring and Logging](#step-5-monitoring-and-logging)
-  - [Prometheous + Grafana (Free)](#prometheous--grafana-free)
+  - [Prometheus + Grafana (Free)](#prometheus--grafana-free)
   - [Grafana LGTM Stack (Loki + Grafana + Tempo + Mimir) (Free)](#grafana-lgtm-stack-loki--grafana--tempo--mimir)
   - [Zabbix + Grafana (Free)](#zabbix--grafana-free)
   - [Telegraf + InfluxDB + Grafana (Free)](#telegraf--influxdb--grafana-free)
@@ -69,7 +69,7 @@
 - [Contact the maintainer of DevOps Hobbies](#maintainer)
 
 
-## Programing Language
+## Programming Language
 📌 Consider this as your benefit. A good DevOps engineer know at least one popular programming language.
 
 - ### Python
@@ -168,7 +168,7 @@ Practice the roadmap topics with fully local mission-based games:
     - [TerraformMissions](https://github.com/devopshobbies/terraformmissions) (Fully local Terraform training game with broken configurations to fix)
 - ### Pulumi (Normal)
 
-## Step 2: Configuration Managment
+## Step 2: Configuration Management
 - ### Ansible (Strongly Recommended)
   - Videos:
     - [Getting Start With Ansible](https://www.youtube.com/watch?v=3RiVKs8GHYQ&list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) (Beginner Video)
@@ -184,7 +184,7 @@ Practice the roadmap topics with fully local mission-based games:
 - ### Chef (Normal)
 
 ### Step 2.5: End-to-End Automation
-on this step you need to learning End-to-End automation with Ansible and Terraform on infrastruture. Please follow bottom repos.
+on this step you need to learn End-to-End automation with Ansible and Terraform on infrastructure. Please follow bottom repos.
 - #### End-to-End Automation on VMware vsphere with Ansible and Terraform
   - Books/Docs/Code:
     - [Terraform vsphere Ansible Tutorial](https://github.com/ahmadalibagheri/terraform-vsphere-ansible) (Sample Training Code)
@@ -195,10 +195,10 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Packer Tutorial](https://github.com/ahmadalibagheri/packer-tutorial)
 
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
-- ### Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)
+- ### Jenkins (Suitable for CI and CD in All infrastructure)(Free) (Strongly Recommended)
   - Videos:
     - [Jenkins CICD - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=l9XXgAHNM4M&list=PLYrn63eEqAzaErni2aBsPEhKhoxiX7yes) (Persian Language) (Free)
-- ### GitLab (Suitable for CI and CD in ALl infrastructure)(Paid)
+- ### GitLab (Suitable for CI and CD in All infrastructure)(Paid)
   - Videos:
     - [Gitlab CICD - Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=M0OWvEE4e3I&list=PLYrn63eEqAzannVocQrddqsBK-C17e-Sm) (Persian Language) (Free)
   - Books/Docs/Code:
@@ -250,7 +250,7 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
     - [Spinnaker](https://spinnaker.io/) (CD) (free)
 
 ## Step 5: Monitoring and Logging
-- ### Prometheous + Grafana (Free)
+- ### Prometheus + Grafana (Free)
   - Books/Docs/Code:
     - [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142/ref=sr_1_1) (English Book)
   - Videos:
